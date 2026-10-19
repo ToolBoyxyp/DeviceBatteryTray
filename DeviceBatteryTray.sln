@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F152FED4-0CAA-4B42-A010-4C98F5B21BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceBatteryTray", "src\DeviceBatteryTray\DeviceBatteryTray.csproj", "{494CE6D9-060B-4B5A-B029-7F6D920FE5EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494CE6D9-060B-4B5A-B029-7F6D920FE5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494CE6D9-060B-4B5A-B029-7F6D920FE5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494CE6D9-060B-4B5A-B029-7F6D920FE5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494CE6D9-060B-4B5A-B029-7F6D920FE5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{494CE6D9-060B-4B5A-B029-7F6D920FE5EA} = {F152FED4-0CAA-4B42-A010-4C98F5B21BA8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+installer/Output/
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
+settings.json
